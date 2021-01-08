@@ -50,7 +50,7 @@
 
   - 설치 완료 후 화면
 
-    ![zshell 설치 완료](/Users/spring/Desktop/스크린샷 2021-01-08 오후 9.06.39.png)
+    ![zshell 설치 완료](./image/install_omz.png)
 
 
 
@@ -68,7 +68,7 @@
   $ code .zshrc
   ```
 
-![.zshrc](/Users/spring/Desktop/스크린샷 2021-01-08 오후 10.46.57.png)
+![.zshrc](./image/zsh_theme.png)
 
 - `ZSH_THEME` 를 원하는 Theme 로 변경
   - [`zsh_theme 종류`](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
@@ -83,7 +83,7 @@
 
   - 상단의 random theme 메시지를 제거하고 싶다면
 
-    -> [random theme 메시지 제거 방법](https://velog.io/@hwang-eunji/%ED%84%B0%EB%AF%B8%EB%84%90%EA%BE%B8%EB%AF%B8%EA%B8%B0-Oh-my-zsh-%ED%85%8C%EB%A7%88-%EA%B7%B8-%EB%B0%96%EC%97%90-%EC%B6%94%EA%B0%80-%EC%84%A4%EC%A0%95MacOS) 에서 확인
+    -> [random theme 메시지 제거 방법 참고](https://velog.io/@hwang-eunji/%ED%84%B0%EB%AF%B8%EB%84%90%EA%BE%B8%EB%AF%B8%EA%B8%B0-Oh-my-zsh-%ED%85%8C%EB%A7%88-%EA%B7%B8-%EB%B0%96%EC%97%90-%EC%B6%94%EA%B0%80-%EC%84%A4%EC%A0%95MacOS) 에서 확인
 
 ---
 
