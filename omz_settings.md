@@ -1,14 +1,10 @@
 # Mac terminal **zsh** 설정하기
 
----
-
 > 터미널을 사용하기에 앞서, 새로운 테마를 적용해보기
 
 
 
 ## **1. zsh 설치하기**
-
----
 
 > 기본 `bash shell` -> `zsh`로 바꾸기
 
@@ -48,8 +44,6 @@
 
 ## 2. Oh-my-zsh 설치
 
----
-
 > `zsh` 환경 설정을 위한 프레임워크 `oh-my-zsh` 설치하기
 
   - [`oh-my-zsh` 설치 안내 페이지](https://ohmyz.sh/)
@@ -61,8 +55,6 @@
 
 
 ## 3. Theme 변경
-
----
 
 - Default Theme :  `robbyrussell`
 
@@ -98,8 +90,6 @@
 
 
 ## 추가 기능
-
----
 
 ### (1) Terminal 'Last login' sign 제거하기
 
